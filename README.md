@@ -5,7 +5,8 @@
 **Welcome to my GitHub Repository**
 ---
 *"There is only one good, knowledge, and one evil, ignorance." - Socrates*
----
+
+'Interests: Computers, Sports (soccer, basketball, football, hockey), Pizza'
 > Group #
 ---
 1. [Test Link Lab 1. GHDL and GTKWave](https://sit.instructure.com/courses/77142/assignments/557717)
@@ -22,7 +23,7 @@
 - [Assignment 0: GitHub Repository](https://sit.instructure.com/courses/77142/assignments/557701)
 - [Assignment 1: Team Project Slide](https://sit.instructure.com/courses/77142/assignments/557706)
 
-'My favorite sport is soccer.'
+
 
 ---
 ![download](https://github.com/user-attachments/assets/32c5721b-731a-4553-873f-3df4a39bbfcf)
