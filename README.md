@@ -22,7 +22,7 @@
 - [Assignment 0: GitHub Repository](https://sit.instructure.com/courses/77142/assignments/557701)
 - [Assignment 1: Team Project Slide](https://sit.instructure.com/courses/77142/assignments/557706)
 
-'code'
+'My favorite sport is soccer.'
 
 ---
 ![download](https://github.com/user-attachments/assets/32c5721b-731a-4553-873f-3df4a39bbfcf)
