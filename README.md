@@ -6,7 +6,7 @@
 ---
 *"There is only one good, knowledge, and one evil, ignorance." - Socrates*
 
-'Interests: Computers, Sports (soccer, basketball, football, hockey), Pizza'
+`Interests: Computers, Sports (soccer, basketball, football, hockey), Pizza`
 > Group #
 ---
 1. [Test Link Lab 1. GHDL and GTKWave](https://sit.instructure.com/courses/77142/assignments/557717)
