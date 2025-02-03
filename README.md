@@ -8,6 +8,8 @@
 
 `Interests: Computers, Sports (soccer, basketball, football, hockey), Pizza`
 > Group #
+
+> [Group Site Link](https://sites.google.com/stevens.edu/cpe322-group/home)
 ---
 1. [Test Link Lab 1. GHDL and GTKWave](https://sit.instructure.com/courses/77142/assignments/557717)
 2. [Lab 2. Command Line]
