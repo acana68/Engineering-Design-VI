@@ -11,7 +11,7 @@
 
 > [Group Site Link](https://sites.google.com/stevens.edu/cpe322-group/home)
 ---
-1. [Test Link Lab 1. GHDL and GTKWave](https://sit.instructure.com/courses/77142/assignments/557717)
+1. [Lab 1. GHDL and GTKWave](https://github.com/rayringston/CPE-322/tree/main/Lab%201)
 2. [Lab 2. Command Line]
 3. [Lab 3. Python]
 4. [Lab 4. Django and Flask]
