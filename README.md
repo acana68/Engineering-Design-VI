@@ -11,6 +11,7 @@
 
 > [Group Site Link](https://sites.google.com/stevens.edu/cpe322-group/home)
 ---
+## LABS
 1. [Lab 1. GHDL and GTKWave](https://github.com/rayringston/CPE-322/tree/main/Lab%201)
 2. [Lab 2. Command Line]
 3. [Lab 3. Python]
@@ -21,7 +22,7 @@
 8. [Lab 8. Data Analysis]
 9. [Lab 9. YANG]
 10. [Lab 10. Blockchain]
-
+## ASSIGNMENTS
 - [Assignment 0: GitHub Repository](https://sit.instructure.com/courses/77142/assignments/557701)
 - [Assignment 1: Team Project Slide](https://sites.google.com/stevens.edu/cpe322-group/home)
 
