@@ -23,7 +23,7 @@
 10. [Lab 10. Blockchain]
 
 - [Assignment 0: GitHub Repository](https://sit.instructure.com/courses/77142/assignments/557701)
-- [Assignment 1: Team Project Slide](https://sit.instructure.com/courses/77142/assignments/557706)
+- [Assignment 1: Team Project Slide][(https://sit.instructure.com/courses/77142/assignments/557706](https://sites.google.com/stevens.edu/cpe322-group/home)
 
 
 
