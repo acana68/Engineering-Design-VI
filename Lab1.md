@@ -6,4 +6,4 @@ ghdl -e ha_tb
 ghdl -r ha_tb --vcd=ha.vcd
 gtkwave ha.vcd
 ```
-![ha gtkwave]([https://mail.google.com/mail/u/0?ui=2&ik=90102e389a&attid=0.2&permmsgid=msg-a:r-5928984944669022476&th=1953b5240bc1ef5c&view=att&disp=safe&realattid=f_m7jz5qr50&zw](https://drive.google.com/file/d/1ZYGQpb95am506X9qGBMir9gFQkwyVpTr/view?usp=drive_link))
+![ha gtkwave](https://drive.google.com/file/d/1ZYGQpb95am506X9qGBMir9gFQkwyVpTr/view?usp=sharing)
