@@ -17,4 +17,5 @@ ghdl -r adder_tb --vcd=adder.vcd
 adder_tb.vhdl:54:5:@8ns(assertion note): end of test
 gtkwave adder.vcd
 
+![4to1 mux gtkwave output](https://github.com/user-attachments/assets/3d7e042b-0711-4127-8a52-9ed36eccc103)
 ![adder gktwave](https://drive.google.com/file/d/1ZYGQpb95am506X9qGBMir9gFQkwyVpTr/view?usp=drive_link)
