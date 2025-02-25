@@ -1,4 +1,4 @@
-# Hald Adder
+# Half Adder
 ```console
 ghdl -a ha.vhdl
 ghdl -a ha_tb.vhdl
