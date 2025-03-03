@@ -24,6 +24,10 @@
 ## Assignments
 - [Assignment 0: GitHub Repository](https://sit.instructure.com/courses/77142/assignments/557701)
 - [Assignment 1: Team Project Slide](https://sites.google.com/stevens.edu/cpe322-group/home)
+- [Assignment 2: Needs Assesment](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-2)
+- [Assignment 3: Problem Formulation](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-3)
+- [Assignment 4: Solution Development](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-4)
+- [Assignment 5: Intellectual Property](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-5)
 
 
 
