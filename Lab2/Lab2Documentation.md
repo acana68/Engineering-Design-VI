@@ -14,7 +14,8 @@
 
 ## 2. `env`
 **Purpose:** Displays a list of all environment variables available in the session.
-
+![env screenshot](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2env1.png)
+![env2 screenshot](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2env2.png)
 
 
 ---
