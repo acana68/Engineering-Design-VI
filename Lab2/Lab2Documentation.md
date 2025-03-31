@@ -23,35 +23,44 @@
 ## 3. `ps`
 **Purpose:** Lists current running processes associated with the terminal.
 
-*Insert screenshot showing output of running processes here.*
+![ps screenshot](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/Lab2ps.png)
 
 ---
 
 ## 4. `pwd`
 **Purpose:** Prints the current working directory path.
 
-*Insert screenshot showing the output of `pwd` here.*
+![pwd screenshot](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/Lab2pwd.png)
 
 ---
 
 ## 5. Git and Navigation Commands
 **Purpose** Clones the IoT GitHub repository, displays its contents, and navigates back.
 
-SS
+![Commands Screenshot](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2gitclone.png)
+![Commands Screenshot](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2iot.png)
+![Commands Screenshot](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2ls.png)
 
 ---
 
 ## 6. File and Directory Operations
 **Purpose** Demonstrates basic file manipulation: creating, viewing, copying, moving, deleting, and clearing the screen.
 
-SS
+![File and Directory Operation](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2nano.png)
+![File and Directory Operation](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2cdmkdircddemonanofile.png)
+![File and Directory Operation](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2catfilecpfilemvfile.png)
+![File and Directory Operation](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2rmfile2.png)
+![Clear](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2clear.png)
+
 
 ---
 
 ## 7. System and Network Information
 **Purpose** Displays system information, network configuration, and connectivity status.
 
-SS
+![uname -a](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2uname-a.png)
+![ping localhost](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2pinglocalhost.png)
+![netstat](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/lab2netstatfinal.png)
 
 ---
 
