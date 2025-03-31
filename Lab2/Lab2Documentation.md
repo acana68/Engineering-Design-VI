@@ -15,7 +15,7 @@
 ## 2. `env`
 **Purpose:** Displays a list of all environment variables available in the session.
 
-*Insert screenshot showing sample environment variables here.*
+
 
 ---
 
