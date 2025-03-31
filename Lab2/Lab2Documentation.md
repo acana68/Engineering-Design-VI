@@ -35,9 +35,26 @@
 ---
 
 ## 5. Git and Navigation Commands
+**Purpose** Clones the IoT GitHub repository, displays its contents, and navigates back.
 
-```bash
-git clone https://github.com/kevinwlu/iot.git
-cd iot
-ls
-cd ..
+SS
+
+---
+
+## 6. File and Directory Operations
+**Purpose** Demonstrates basic file manipulation: creating, viewing, copying, moving, deleting, and clearing the screen.
+
+SS
+
+---
+
+## 7. System and Network Information
+**Purpose** Displays system information, network configuration, and connectivity status.
+
+SS
+
+---
+
+
+
+
