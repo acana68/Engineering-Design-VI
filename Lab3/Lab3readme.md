@@ -58,7 +58,5 @@ Screenshot: `docunmentstats.py.png`
 
 ---
 
-## Required Python Packages
 
-Before running the scripts, install the following packages:
 
