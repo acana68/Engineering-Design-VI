@@ -1,79 +1,64 @@
-# Lab 3 – Python Scripts for Date, Time, Location, and System Info
+# Lab 3 – Python Scripts for Date, Time, Location, and System Information
 
-This lab demonstrates the use of Python libraries for handling date/time, astronomical data (sun and moon), geolocation, system resource monitoring, and text analysis.
+This lab demonstrates basic use of Python scripts for working with:
 
----
-
-## ✅ Scripts & Sample Output
-
-### 🔋 `battery.py`
-Displays battery status and power connection.
-![battery.py](battery.py.png)
+- Dates and times
+- Sun and moon information
+- Location-based data
+- System resource monitoring
+- Text file statistics
 
 ---
 
-### 🧠 `cpu.py`
-Shows CPU core count and real-time utilization.
-![cpu.py](CPU.py.png)
+## Scripts and Sample Output
+
+### battery.py
+Displays battery status and charging info.  
+Screenshot: `battery.py.png`
+
+### cpu.py
+Shows number of cores and real-time CPU usage.  
+Screenshot: `CPU.py.png`
+
+### address.py
+Reverse geocoding from coordinates to address.  
+Screenshot: `address.py(#).png`
+
+### coordinates.py
+Converts a place name to latitude and longitude.  
+Screenshot: `samuelclibrarycoord.png`
+
+### moon.py
+Displays moon phase information by date.  
+Screenshot: `moon.py.png`
+
+### sun.py
+Shows sunrise, sunset, dawn, and dusk for a given city.  
+Screenshot: `Sun.pyNewyork.png`
+
+### time_example.py
+Prints the current local time at 10-second intervals.  
+Screenshot: `time_example1.py.png`
+
+### datetime_example.py
+Displays current date/time with UTC timestamps.  
+Screenshot: `datetime_example.py.png`
+
+### date_example.py
+Shows formatted date output and semester day counts.  
+Screenshot: `date_example.py.png`
+
+### julian.py
+Displays current date in Julian and Modified Julian formats.  
+Screenshot: `julian.py.png`
+
+### documentstats.py
+Counts total words and lists the 10 most frequent words in a text file.  
+Screenshot: `docunmentstats.py.png`
 
 ---
 
-### 📍 `address.py`
-Performs reverse geocoding (coordinates → location).
-![address.py](address.py(#).png)
+## Required Python Packages
 
----
+Before running the scripts, install the following packages:
 
-### 📌 `coordinates.py`
-Geocoding (place name → coordinates).
-![coordinates.py](samuelclibrarycoord.png)
-
----
-
-### 🌙 `moon.py`
-Displays upcoming moon phases.
-![moon.py](moon.py.png)
-
----
-
-### ☀️ `sun.py`
-Shows sunrise, sunset, dawn, and dusk times.
-![sun.py](Sun.pyNewyork.png)
-
----
-
-### ⏰ `time_example.py`
-Prints local time repeatedly every second.
-![time_example.py](time_example1.py.png)
-
----
-
-### 🗓️ `datetime_example.py`
-Prints current UTC time and timestamp data.
-![datetime_example.py](datetime_example.py.png)
-
----
-
-### 📆 `date_example.py`
-Shows formatted date breakdown and semester day count.
-![date_example.py](date_example.py.png)
-
----
-
-### 📅 `julian.py`
-Converts today's date to Julian and Modified Julian Date.
-![julian.py](julian.py.png)
-
----
-
-### 📄 `documentstats.py`
-Performs a word count and lists top 10 words in a text file.
-![documentstats.py](docunmentstats.py.png)
-
----
-
-## 🔧 Required Python Packages
-
-Install with:
-```bash
-pip install jdcal astral geopy pytz
