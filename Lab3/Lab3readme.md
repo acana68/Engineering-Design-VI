@@ -56,7 +56,7 @@ Converts a place name to latitude and longitude.
 
 ### `address.py`  
 Reverse geocoding: converts latitude and longitude into a human-readable address.  
-![address](address.py(#).png)
+![address](address.py().png)
 
 ---
 
