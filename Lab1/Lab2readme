@@ -6,7 +6,7 @@ ghdl -e ha_tb
 ghdl -r ha_tb --vcd=ha.vcd
 gtkwave ha.vcd
 ```
-![ha gtkwave](https://drive.google.com/file/d/1-vFuhCmrOQsaHQrwuSbyPeApStaXz7da/view?usp=drive_link)
+![ha gtkwave](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab1/halfadderSS.PNG?raw=true)
 
 # Full Adder
 ```console
