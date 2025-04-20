@@ -12,7 +12,7 @@
 ---
 ## Labs
 1. [Lab 1. GHDL and GTKWave](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab1.md)
-2. [Lab 2. Command Line]
+2. [Lab 2. Command Line](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab2/Lab2Documentation.md)
 3. [Lab 3. Python]
 4. [Lab 4. Django and Flask]
 5. [Lab 5. Paho-MQTT]
