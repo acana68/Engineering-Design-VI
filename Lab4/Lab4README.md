@@ -10,9 +10,9 @@ This lab demonstrates setting up and running a basic Django application using Py
 ```bash
 pip3 install -U django djangorestframework django-filter markdown requests
 ```
-![lab4 step 1](lab4#1.png)  
-![lab4 step 2](lab4#2.png)  
-![lab4 step 3](lab4#3.png)  
+![step1](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%231.png?raw=true)  
+![step2](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%232.png?raw=true)  
+![step3](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%233.png?raw=true)  
 
 ---
 
@@ -22,8 +22,8 @@ django-admin startproject stevens
 cd stevens
 python manage.py startapp myapp
 ```
-![lab4 step 4](lab4#4.png)  
-![lab4 step 5](lab4#5.png)  
+![step4](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%234.png?raw=true)  
+![step5](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%235.png?raw=true)  
 
 ---
 
@@ -32,8 +32,8 @@ python manage.py startapp myapp
 - Set `ALLOWED_HOSTS = ['*']`
 - Set `TIME_ZONE = 'America/New_York'`
 
-![INSTALLED_APPS and ALLOWED_HOSTS](lab4#6.png)  
-![TIME_ZONE](lab4#7.png)  
+![step6](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%236.png?raw=true)  
+![step7](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%237.png?raw=true)  
 
 ---
 
@@ -44,7 +44,7 @@ from django.http import HttpResponse
 def index(request):
     return HttpResponse("Hello from my IoT Django app!")
 ```
-![views.py](lab4#8.png)
+![step8](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%238.png?raw=true)  
 
 ---
 
@@ -59,7 +59,7 @@ urlpatterns = [
     path('', views.index),
 ]
 ```
-![myapp urls.py](lab4#9.png)
+![step9](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%239.png?raw=true)  
 
 **stevens/urls.py**
 ```python
@@ -71,7 +71,7 @@ urlpatterns = [
     path('', include('myapp.urls')),
 ]
 ```
-![stevens urls.py](lab4#10.png)
+![step10](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%2310.png?raw=true)  
 
 ---
 
@@ -79,8 +79,8 @@ urlpatterns = [
 ```bash
 python manage.py runserver
 ```
-![Browser output](lab4#11.png)  
-![Server output](lab4#12.png)
+![step11](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%2311.png?raw=true)  
+![step12](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/lab4%2312.png?raw=true)  
 
 ---
 
