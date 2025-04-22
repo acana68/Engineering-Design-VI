@@ -2,13 +2,19 @@
 
 This lab demonstrates setting up and running a basic Django application using Python. The goal was to install Django, configure project settings, create a minimal web app, and verify functionality through a browser.
 
+---
+
 ## Installation & Setup Steps
 
 ### 1. Installed Required Packages
 ```bash
 pip3 install -U django djangorestframework django-filter markdown requests
 ```
-Refer to screenshots: lab4#1.png through lab4#3.png
+![lab4 step 1](lab4#1.png)  
+![lab4 step 2](lab4#2.png)  
+![lab4 step 3](lab4#3.png)  
+
+---
 
 ### 2. Created Project and App
 ```bash
@@ -16,14 +22,20 @@ django-admin startproject stevens
 cd stevens
 python manage.py startapp myapp
 ```
-Screenshots: lab4#4.png, lab4#5.png
+![lab4 step 4](lab4#4.png)  
+![lab4 step 5](lab4#5.png)  
+
+---
 
 ### 3. Updated settings.py
 - Added `'myapp'` to `INSTALLED_APPS`
 - Set `ALLOWED_HOSTS = ['*']`
 - Set `TIME_ZONE = 'America/New_York'`
 
-Screenshots: lab4#6.png, lab4#7.png
+![INSTALLED_APPS and ALLOWED_HOSTS](lab4#6.png)  
+![TIME_ZONE](lab4#7.png)  
+
+---
 
 ### 4. Created View in myapp/views.py
 ```python
@@ -32,7 +44,9 @@ from django.http import HttpResponse
 def index(request):
     return HttpResponse("Hello from my IoT Django app!")
 ```
-Screenshot: lab4#8.png
+![views.py](lab4#8.png)
+
+---
 
 ### 5. Created URL Mappings
 
@@ -45,7 +59,7 @@ urlpatterns = [
     path('', views.index),
 ]
 ```
-Screenshot: lab4#9.png
+![myapp urls.py](lab4#9.png)
 
 **stevens/urls.py**
 ```python
@@ -57,16 +71,18 @@ urlpatterns = [
     path('', include('myapp.urls')),
 ]
 ```
-Screenshot: lab4#10.png
+![stevens urls.py](lab4#10.png)
+
+---
 
 ### 6. Ran Server and Verified Output
 ```bash
 python manage.py runserver
 ```
-Browser opened at: http://127.0.0.1:8000  
-Displayed: **Hello from my IoT Django app!**
+![Browser output](lab4#11.png)  
+![Server output](lab4#12.png)
 
-Screenshots: lab4#11.png, lab4#12.png
+---
 
 ## Conclusion
 
