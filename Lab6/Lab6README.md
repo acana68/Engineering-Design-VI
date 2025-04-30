@@ -1,6 +1,6 @@
 # Lab 6 – Node.js and Pystache
 The first step was confirming installation of Node.js, npm, and Python.  
-![lab6#1.png](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab6/lab6%231.png?raw=true)  
+![lab6#1.png](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab6/lab6%23ONE.png?raw=true) 
 Confirmed Node.js v22.15.0, npm v10.9.2, and Python 3.13.3 were installed successfully.  
 This script creates a basic HTTP server that displays "Hello, World!" in the browser.  
 ```bash
