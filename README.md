@@ -16,7 +16,7 @@
 3. [Lab 3. Python](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab3/Lab3readme.md)
 4. [Lab 4. Django and Flask](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab4/Lab4README.md)
 5. [Lab 5. Paho-MQTT](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab5/Lab5README.md)
-6. [Lab 6. Node.js and Pystache]
+6. [Lab 6. Node.js and Pystache](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab6/Lab6README.md)
 7. [Lab 7. ThingSpeak and Google Sheets]
 8. [Lab 8. Data Analysis]
 9. [Lab 9. YANG]
