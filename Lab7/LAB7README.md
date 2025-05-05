@@ -1,64 +1,59 @@
-# Lab 7 - CPU and Memory Logging to ThingSpeak and Google Sheets
+# Lab 7 - CPU & Memory Logging with ThingSpeak and Google Sheets
 
-This lab collects system information and logs it to both ThingSpeak and a Google Spreadsheet. The project demonstrates IoT data collection using Python, `psutil`, ThingSpeak API, and Google Sheets API.
+## ThingSpeak Data Upload
 
----
-
-## 1. Running Python Code to Upload to ThingSpeak
+I used the following command to run the ThingSpeak upload script:
 
 ![lab7-1](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/lab7%231.png?raw=true)
 
----
-
-## 2. Graphing CPU and Memory Data on ThingSpeak
+Below is the ThingSpeak chart output showing CPU usage and available memory:
 
 ![field1-field2chart](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/field1-field2chart.png?raw=true)
 
 ---
 
-## 3. Setting Up Google Cloud Service Account
+## Google Sheets Setup
+
+I created a service account named `rpdata` and downloaded the credentials as a `.json` file:
 
 ![lab7-2](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/lab7%232.png?raw=true)
 
----
-
-## 4. Downloaded Service Key JSON File
+Here’s the service account key file:
 
 ![lab7-3](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/lab7%233.png?raw=true)
 
----
-
-## 5. Copying Files Using Git Bash 
+I copied the required files into my working directory:
 
 ![lab7-4](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/lab7%234.png?raw=true)
 
 ---
 
-## 6. Editing `cpu_spreadsheet.py` in Nano
+## Running Google Sheets Logger
+
+I edited `cpu_spreadsheet.py` to include my sheet and key file names:
 
 ![lab7-5](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/lab7%235.png?raw=true)
 
----
-
-## 7. Running the Script Successfully
+Then I ran the script and began logging every 10 seconds:
 
 ![lab7-6](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/lab7%236.png?raw=true)
 
----
-
-## 8. Google Spreadsheet Logging Output
+Logged data shows up in my Google Sheet:
 
 ![lab7-7](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/lab7%237.png?raw=true)
 
 ---
 
-## 9. Installing Required Libraries
+## Dependencies Installed
+
+I installed the required libraries using pip:
 
 ![lab7-8](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/lab7%238.png?raw=true)
 
 ---
 
-## 10. Readings Being Pushed to ThingSpeak
+## Output During Live Logging
+
+Below is the output showing periodic data entries and confirmation responses:
 
 ![lab7-9](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/lab7%239.png?raw=true)
-
