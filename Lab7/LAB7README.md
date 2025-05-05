@@ -28,7 +28,7 @@ This lab collects system information and logs it to both ThingSpeak and a Google
 
 ---
 
-## 5. Copying Files Using Git Bash / MINGW64
+## 5. Copying Files Using Git Bash 
 
 ![lab7-4](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/lab7%234.png?raw=true)
 
