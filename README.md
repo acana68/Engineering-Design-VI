@@ -26,7 +26,7 @@
 - [Assignment 1](https://sites.google.com/stevens.edu/cpe322-group/home)
 - [Assignment 2](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-2)
 - [Assignment 3](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-3)
-- [Assignment 4(https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-4)
+- [Assignment 4](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-4)
 - [Assignment 5](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-5)
 - [Assignment 6](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-6)
 - [Assignment 7](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-7)
