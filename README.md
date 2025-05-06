@@ -20,7 +20,7 @@
 7. [Lab 7. ThingSpeak and Google Sheets](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/LAB7README.md)
 8. [Lab 8. Data Analysis](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab8/Lab8README.md)
 9. [Lab 9. YANG](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab9/LAB9README.md)
-10. [Lab 10. Blockchain]
+10. [Lab 10. Blockchain](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab10/Lab10README.md)
 ## Assignments
 - [Assignment 0: GitHub Repository](https://sit.instructure.com/courses/77142/assignments/557701)
 - [Assignment 1: Team Project Slide](https://sites.google.com/stevens.edu/cpe322-group/home)
@@ -28,6 +28,12 @@
 - [Assignment 3: Problem Formulation](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-3)
 - [Assignment 4: Solution Development](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-4)
 - [Assignment 5: Intellectual Property](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-5)
+- [Assignment 6:](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-6)
+- [Assignment 7:](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-7)
+- [Assignment 8:](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-8)
+- [Assignment 9:](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-9)
+- [Assignment 10:](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-10)
+- [Assignment 11:](https://sites.google.com/stevens.edu/cpe322-group/assignments/assignment-11)
 
 
 
