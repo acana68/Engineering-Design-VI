@@ -19,7 +19,7 @@
 6. [Lab 6. Node.js and Pystache](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab6/Lab6README.md)
 7. [Lab 7. ThingSpeak and Google Sheets](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/LAB7README.md)
 8. [Lab 8. Data Analysis](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab8/Lab8README.md)
-9. [Lab 9. YANG]
+9. [Lab 9. YANG](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab9/LAB9README.md)
 10. [Lab 10. Blockchain]
 ## Assignments
 - [Assignment 0: GitHub Repository](https://sit.instructure.com/courses/77142/assignments/557701)
