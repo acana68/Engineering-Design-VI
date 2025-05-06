@@ -18,7 +18,7 @@
 5. [Lab 5. Paho-MQTT](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab5/Lab5README.md)
 6. [Lab 6. Node.js and Pystache](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab6/Lab6README.md)
 7. [Lab 7. ThingSpeak and Google Sheets](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab7/LAB7README.md)
-8. [Lab 8. Data Analysis]
+8. [Lab 8. Data Analysis](https://github.com/acana68/Engineering-Design-VI/blob/main/Lab8/Lab8README.md)
 9. [Lab 9. YANG]
 10. [Lab 10. Blockchain]
 ## Assignments
